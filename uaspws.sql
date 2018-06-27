@@ -1,5 +1,5 @@
 ﻿# Host: localhost  (Version 5.5.5-10.1.30-MariaDB)
-# Date: 2018-06-25 14:32:19
+# Date: 2018-06-27 15:09:02
 # Generator: MySQL-Front 6.0  (Build 2.20)
 
 
@@ -27,4 +27,4 @@ CREATE TABLE `mahasiswas` (
 # Data for table "mahasiswas"
 #
 
-INSERT INTO `mahasiswas` VALUES ('1512500578','2018-06-21 16:35:31','2018-06-24 16:52:59',NULL,'Aldis Fakhri S','BPI','021021021','Laki','Sistem Informasi','Teknologi informasi','20152016'),('1512503192','2018-06-21 16:40:50','2018-06-21 20:41:34','2018-06-21 20:41:34','Anisa Mufidah','Jl. Kampung Rawa Timur 03/005 No. 46, Kec. Pondok Pucung, Kel. Pondok Aren, Tangerang Selatan 15229','085609708520','wanita','Sistem Informasi','Teknologi Informasi','20152016');
+INSERT INTO `mahasiswas` VALUES ('1511501881','2018-06-27 15:06:49','2018-06-27 15:06:49',NULL,'Zayn Malik','Green Hill','081238912500','Pria','Teknologi Informatika','Teknologi Informasi','20152016'),('1512500578','2018-06-21 16:35:31','2018-06-24 16:52:59',NULL,'Aldis Fakhri S','BPI','021021021','Laki','Sistem Informasi','Teknologi informasi','20152016'),('1512503192','2018-06-21 16:40:50','2018-06-21 20:41:34','2018-06-21 20:41:34','Anisa Mufidah','Jl. Kampung Rawa Timur 03/005 No. 46, Kec. Pondok Pucung, Kel. Pondok Aren, Tangerang Selatan 15229','085609708520','wanita','Sistem Informasi','Teknologi Informasi','20152016'),('1512503199','2018-06-27 15:04:16','2018-06-27 15:04:16',NULL,'Anisa Mufidah','Bintaro','081238912555','Perempuan','Sistem Informasi','Teknologi Informasi','20172018');
